@@ -1,0 +1,113 @@
+2026.10.24 14:17:38 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming' for client Visual Studio Code 1.142.0.[0m
+2026.10.24 14:17:38 INFO  Memory monitor started[0m
+2026.10.24 14:17:39 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.10.24 14:17:39 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+2026.10.24 14:17:41 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+2026.10.24 14:17:41 INFO  Shutting down server[0m
+2026.10.24 14:17:41 INFO  Memory monitor stopped[0m
+2026.10.24 14:17:41 INFO  shutting down Metals[0m
+2026.10.24 14:17:41 INFO  Exiting server[0m
+2026.10.24 14:20:33 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming' for client Visual Studio Code 1.142.0.[0m
+2026.10.24 14:20:35 INFO  Memory monitor started[0m
+2026.10.24 14:20:42 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.10.24 14:20:43 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+2026.10.24 14:20:44 WARN  no build tool detected in workspace 'C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2026.10.24 14:20:44 WARN  Build server is not auto-connectable.[0m
+2026.10.24 14:20:44 WARN  no build target for: C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java[0m
+oct 24, 2026 2:20:46 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.10.24 14:20:46 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+2026.10.24 14:20:46 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+oct 24, 2026 2:20:47 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2026.10.24 14:20:46 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+2026.10.24 14:20:47 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+2026.10.24 14:20:48 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+2026.10.24 14:20:47 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+2026.10.24 14:20:49 INFO  time: code lens generation in 1.83s[0m
+2026.10.24 14:20:49 INFO  time: code lens generation in 2.83s[0m
+2026.10.24 14:20:49 INFO  time: code lens generation in 1.22s[0m
+2026.10.24 14:20:50 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:06 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:06 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:08 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:30 WARN  no build target for: C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java[0m
+2026.10.24 14:21:30 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:32 WARN  no build target for: C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java[0m
+oct 24, 2026 2:21:32 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.10.24 14:21:32 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:32 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:47 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio3.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:47 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio2.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:47 WARN  no build target for: C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio2.java[0m
+2026.10.24 14:21:48 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio2.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:47 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio2.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:48 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio2.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:49 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio2.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:49 WARN  no build target for: C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejericicio1.java[0m
+2026.10.24 14:21:49 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejericicio1.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:50 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejericicio1.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:49 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejericicio1.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:50 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejericicio1.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:56 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejericicio1.java. Using fallback presentation compiler.[0m
+oct 24, 2026 2:21:56 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/Ikero/Desktop/programaci%C3%B3n-servicios-procesos/concurrent-programming/lesson1-introduction/src/ejercicios/PrimesNumberGenerator.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:221)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:810)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+2026.10.24 14:21:58 WARN  no build target for: C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\practica\App.java[0m
+2026.10.24 14:21:59 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\practica\App.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:59 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\practica\App.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:59 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\practica\App.java. Using fallback presentation compiler.[0m
+2026.10.24 14:21:59 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\practica\App.java. Using fallback presentation compiler.[0m
+2026.10.25 09:58:56 INFO  Shutting down server[0m
+2026.10.25 09:58:56 INFO  Memory monitor stopped[0m
+2026.10.25 09:58:56 INFO  shutting down Metals[0m
+2026.10.25 09:58:56 INFO  Exiting server[0m
+2026.11.08 11:06:45 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming' for client Visual Studio Code 1.143.1.[0m
+2026.11.08 11:06:45 INFO  Memory monitor started[0m
+2026.11.08 11:06:48 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.11.08 11:06:48 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\practica\App.java. Using fallback presentation compiler.[0m
+2026.11.08 11:06:51 WARN  no build tool detected in workspace 'C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2026.11.08 11:06:51 WARN  Build server is not auto-connectable.[0m
+2026.11.08 11:06:52 WARN  no build target for: C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\practica\App.java[0m
+2026.11.08 11:06:55 INFO  time: code lens generation in 3.48s[0m
+2026.11.08 11:06:58 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\practica\App.java. Using fallback presentation compiler.[0m
+2026.11.08 11:06:58 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\practica\App.java. Using fallback presentation compiler.[0m
+2026.11.08 11:07:00 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\practica\App.java. Using fallback presentation compiler.[0m
+2026.11.08 11:07:00 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\practica\App.java. Using fallback presentation compiler.[0m
+2026.11.08 11:09:21 INFO  no build target found for C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\practica\App.java. Using fallback presentation compiler.[0m
+nov 08, 2026 11:09:30 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.11.08 11:10:01 INFO  Shutting down server[0m
+2026.11.08 11:10:01 INFO  Memory monitor stopped[0m
+2026.11.08 11:10:01 INFO  shutting down Metals[0m
+2026.11.08 11:10:01 INFO  Exiting server[0m

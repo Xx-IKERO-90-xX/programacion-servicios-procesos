@@ -1,0 +1,10 @@
+2026.10.22 20:21:29 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.10.22 20:21:30 WARN  no build tool detected in workspace 'C:\Users\Ikero\Desktop\programación-servicios-procesos'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2026.10.22 20:21:30 WARN  Build server is not auto-connectable.[0m
+2026.10.22 20:21:30 WARN  no build target for: C:\Users\Ikero\Desktop\programación-servicios-procesos\concurrent-programming\lesson1-introduction\src\ejercicios\ejercicio2.java[0m
+oct 22, 2026 8:22:26 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.10.22 20:22:30 INFO  Shutting down server[0m
+2026.10.22 20:22:30 INFO  Memory monitor stopped[0m
+2026.10.22 20:22:30 INFO  shutting down Metals[0m
+2026.10.22 20:22:30 INFO  Exiting server[0m
