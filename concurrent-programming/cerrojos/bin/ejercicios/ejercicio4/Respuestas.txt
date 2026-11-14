@@ -1,0 +1,7 @@
+EJERCICIO 15
+¿Cómo lo solucionarías?
+La solucion esta en que hay que poner un finally con el lock.unlock() dentro para que así asegurarnos que despues de la acción el hilo queda libre 100%.
+
+¿Es buena idea poner un lock dentro de un try? ¿Por que?
+No, nunca es una buena idea. De hecho, es un error crítico de programación en concurrencia con Java.
+Si ocurre cualquier fallo o excepción antes de que se ejecute con exito, o si el intento de bloqueo falla, el bloque saltaría directamente a finall. Como no hay un lock bien ejecutado saltaría la excepción IllegalMonitorStateException.

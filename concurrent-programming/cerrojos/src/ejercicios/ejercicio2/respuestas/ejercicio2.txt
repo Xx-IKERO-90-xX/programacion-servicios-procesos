@@ -1,0 +1,10 @@
+EJERCICIO 2
+-------------------------------------------------
+¿Se ha producido interbloqueos? ¿Por qué? ¿Como podríamos solucionarlo?
+
+No se ha producido ningun interbloqueo, aunque en el ejercicio 12 estaba previsto que si,
+en esta situacion es debido a que el Robot estrictamente esta programado para centrarse unicamente en un paso del camino,
+ya que el camino es una lista de objetos (Interseccion y Recta) y dichos objetos son parte de la interfaz Posicion.
+
+De esta manera se controla de forma estricta los movimientos de los Robots evitando que un hilo se choque con otro cuando están ocupados.
+
